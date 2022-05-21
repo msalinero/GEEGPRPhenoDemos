@@ -1,12 +1,16 @@
 # "Monitoring Cropland Phenology on Google Earth Engine Using Gaussian Process Regression" demo codes.
 \
 \
-Guidelines and demo codes from the publication\
+Guidelines and demo codes from the publication
+\
 https://doi.org/10.3390/rs14010146
+\
 ![image](https://user-images.githubusercontent.com/9076763/169662944-b7b6f85d-8251-4839-9d97-0b65d3e882fa.png)
 
-To add the GEE repository containing the scripts to your GEE accounte click below:\
+To add the GEE repository containing the scripts to your GEE accounte click below:
+\
 https://code.earthengine.google.com/?accept_repo=users/msalinero85/GPRPhenologyDemos
+\
 ![image](https://user-images.githubusercontent.com/9076763/169662967-9ba86550-69c0-4d8a-909a-de15d981f081.png)
 
 The repository includes the following running demos:
