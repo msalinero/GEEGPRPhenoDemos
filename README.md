@@ -3,6 +3,7 @@
 \
 Guidelines and demo codes from the publication\
 https://doi.org/10.3390/rs14010146
+![image](https://user-images.githubusercontent.com/9076763/169662891-2e2f4ca5-eed3-443c-a6ae-3de6bf2e8550.png)
 
 To add the GEE repository containing the scripts to your GEE accounte click below:\
 https://code.earthengine.google.com/?accept_repo=users/msalinero85/GPRPhenologyDemos
