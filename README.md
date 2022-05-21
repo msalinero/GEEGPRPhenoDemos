@@ -3,7 +3,7 @@
 \
 Guidelines and demo codes from the publication https://doi.org/10.3390/rs14010146
 
-To add the GEE repository containing the scripts to your GEE accounte click below:/
+To add the GEE repository containing the scripts to your GEE accounte click below:\
 https://code.earthengine.google.com/?accept_repo=users/msalinero85/GPRPhenologyDemos
 
 The repository includes the following running demos:
