@@ -13,6 +13,7 @@ The repository includes the following running demos:
 3. **LSPGeneration:** LSP metrics generation for the 30TUM tile with its visualization.
 
 Other important scripts contained in the repo:
+
 4. **S2BOAModels:** GPR models hyperparameters translated from ARTMO(matlab) to GEE.
 5. **PhenologyFunctions:** Double Logistic implementation and auxiliary functions to retrieve the LSP metrics.
 6. **visualization:** Parameters required for visualization (palettes, min, max...) 
